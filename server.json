@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Alimentação",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Alimentação",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de site ",
+      "category": "Venda ",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-08-11T14:39:41.637Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de site ",
+      "type": "income",
+      "category": "Venda ",
+      "price": 2000,
+      "createdAt": "2023-08-11T15:27:01.701Z",
+      "id": 5
+    }
+  ]
+}
