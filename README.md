@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - TypeScript, Styled-Components e JSON
-- [Node e NPM](https://nodejs.org/)
+- [NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 
 ## 💻 Projeto
